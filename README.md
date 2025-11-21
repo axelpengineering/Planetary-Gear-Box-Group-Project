@@ -21,4 +21,4 @@ Designed as part of a team in MIE243: Mechanical Engineering Design I, we aimed 
 - Sun gear cylindrical shaft too loose to transfer torque
 - Input shaft broke after being turned by a drill
 
-<img src="PlanetGearBoxFirstPrint" alt="Image of First Printed Gear Box" width="400" height="400">
+<img src="PlanetGearBoxRajanCADPic" alt="Image of First Printed Gear Box" width="400" height="400">
