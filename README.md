@@ -10,7 +10,7 @@ Designed as part of a team in MIE243: Mechanical Engineering Design I, we aimed 
 
 <img src="PlanetGearBoxRajanCADPic" alt="Image of First Iteration of Gear Box from Rajan" width="400" height="400">
 
-
+*CAD credit to Rajan Arasarathnam and Muneeb Abid.
 
 
 ---
