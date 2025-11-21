@@ -6,10 +6,12 @@ Designed as part of a team in MIE243: Mechanical Engineering Design I, we aimed 
 - **Wiring Friendly:** All ports and wire connections have openings, even on the lid. Allows for no hinderance to use whilst protecting fragile components.
 - **To be 3D printed:** Allows for protptyping and reiteration.
 ## 🔗 Project Resources
-📟 [Raspberry Pi 5 Casing CAD Model](MIE243CheckIn2ASSEMBLY.zip)  
+⚙️ [Planetary Gear Box First Print CAD Model](https://github.com/axelpengineering/Planetary-Gear-Box-Group-Project/blob/main/PlanetGearBoxRajanCADPic)
+
+<img src="PlanetGearBoxRajanCADPic" alt="Image of First Iteration of Gear Box from Rajan" width="400" height="400">
 
 
-<img src="RaspberryPi5CasingCADPic" alt="Image of Raspberry Pi 5 CAD Model Iteration 1" width="400" height="300">
+
 
 ---
 ## Results
