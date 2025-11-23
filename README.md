@@ -15,10 +15,16 @@ Designed as part of a team in MIE243: Mechanical Engineering Design I, we aimed 
 
 ---
 ## Results
-**First Print**
+**First Major Print**
 - Gears all meshed after sanding
 - Gears pop out of ring gear after sufficient spin
 - Sun gear cylindrical shaft too loose to transfer torque
 - Input shaft broke after being turned by a drill
 
 <img src="FirstPrintPic" alt="Image of First Printed Gear Box" width="400" height="400">
+
+**Second Major Print**
+- Gears work fine with no issues, no more popping out
+- Input shaft broke after being turned by a drill
+
+
