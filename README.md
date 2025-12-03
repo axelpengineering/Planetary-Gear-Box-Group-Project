@@ -34,6 +34,12 @@ Designed as part of a team in MIE243: Mechanical Engineering Design I, we aimed 
 - We printed the shaft sideways which increased the shafts strength against shear fracture.
 
 <img src="FinalGearBoxFrontViewPrinted.jpg" alt="Image of Rear View of Final Printed Gear Box from Rajan" width="300" height="400">
+
+https://github.com/user-attachments/assets/0c576fa9-7703-4a8e-aefc-6920fa893a89
+
+
 <img src="FinalGearBoxRearViewPrinted.jpg" alt="Image of Rear View of Final Printed Gear Box from Rajan" width="300" height="400">
+
+
 
 
