@@ -27,4 +27,7 @@ Designed as part of a team in MIE243: Mechanical Engineering Design I, we aimed 
 - Gears work fine with no issues, no more popping out
 - Input shaft broke after being turned by a drill
 
+  **Third Major Print**
+- We printed the shaft sideways which increased the shafts strength against shear fracture.
+
 
