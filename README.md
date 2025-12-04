@@ -39,6 +39,11 @@ Designed as part of a team in MIE243: Mechanical Engineering Design I, we aimed 
 
 <img src="FinalGearBoxRearViewPrinted.jpg" alt="Image of Rear View of Final Printed Gear Box from Rajan" width="300" height="400">
 
-
+**Personal Outcomes From Experience**
+- Problem solving
+- Working with gearboxes
+- Learning about 3D printing conventions and issues.
+- Collaborating on CAD/solidworks projects
+- Robotics often requires use of gearboxes and components needed to be designed in CAD. These mechanical skills will translate seemlessly.
 
 
